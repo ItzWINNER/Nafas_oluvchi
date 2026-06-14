@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Nafas_oluvchi",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
@@ -9,13 +9,13 @@
     "ip": "vjivanya.aternos.me",
     "port": 37438,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 1421,
-    "y": 65,
-    "z": 2430
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos00!",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
