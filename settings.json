@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "Nafas_oluvchi",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Nafas_oluvchi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vjivanya.aternos.me:37438",
+    "ip": "vjivanya.aternos.me",
     "port": 37438,
     "version": "1.21.1",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
