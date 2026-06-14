@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vjivanya.aternos.me",
+    "ip": "vjivanya.aternos.me:37438",
     "port": 37438,
     "version": "1.21.1",
     "try-creative": true
